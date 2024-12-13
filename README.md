@@ -20,7 +20,7 @@
 <p align="left"> 
 <p align="left">
     <h3><strong>Linguagens e Tecnologias:</strong></h3>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb,aws,mysql,java,javascript,python&perline=10" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb,aws,mysql,java,javascript,python&perline=5" alt="My Skills"/>
 </p>
 </p>
 
