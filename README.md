@@ -2,7 +2,6 @@
 ## 💜 Olá, meu nome é Amanda! 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.  
-💻 Estagiária em **Salesforce**.
 
 <img src="https://i.ibb.co/8cRTxFQ/Leonardo-Phoenix-A-stylized-image-of-a-laptop-with-programming-2-removebg-preview.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
