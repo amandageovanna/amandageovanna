@@ -8,7 +8,7 @@
 Para alcançar essa meta, estou realizando diversos projetos e cursos, aprimorando meu conhecimento sobre as tecnologias utilizadas no setor e me preparando para alcançar meus objetivos profissionais. 
 Atualmente, estou em busca de uma oportunidade para aplicar meus conhecimentos, crescer profissionalmente e contribuir de forma significativa.
 
-<img src="https://i.ibb.co/0Vhwrrn5/Albedo-Base-XL-A-cute-and-whimsical-digital-illustration-of-a-C-3-removebg-preview-1.png" alt="ilustração de gato com notebook" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.ibb.co/XrXp6ksS/Albedo-Base-XL-A-cute-and-whimsical-digital-illustration-of-a-C-3-1-removebg-preview.png" alt="ilustração de gato com notebook" min-width="400px" max-width="400px" width="400px" align="right">
 
  
 </p>
