@@ -3,7 +3,7 @@
 
 🎓 Estudante do último período de Análise e Desenvolvimento de Sistemas na São Paulo Tech School. <br>
 
-📊 Apaixonada pela área de dados e focada em me tornar uma Engenheira de Dados.<br>
+📊 Apaixonada pela área de dados!<br>
 
 Para alcançar essa meta, estou realizando diversos projetos e cursos, aprimorando meu conhecimento sobre as tecnologias utilizadas no setor e me preparando para alcançar meus objetivos profissionais. 
 Atualmente, estou em busca de uma oportunidade para aplicar meus conhecimentos, crescer profissionalmente e contribuir de forma significativa.
