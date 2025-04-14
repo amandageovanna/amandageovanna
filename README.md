@@ -1,5 +1,5 @@
 
-## 💜 Olá, meu nome é Amanda Geovanna! 
+## 🩷 Olá, meu nome é Amanda Geovanna! 
 
 🎓 Estudante do último período de Análise e Desenvolvimento de Sistemas na São Paulo Tech School. <br>
 
@@ -8,17 +8,17 @@
 Para alcançar essa meta, estou realizando diversos projetos e cursos, aprimorando meu conhecimento sobre as tecnologias utilizadas no setor e me preparando para alcançar meus objetivos profissionais. 
 Atualmente, estou em busca de uma oportunidade para aplicar meus conhecimentos, crescer profissionalmente e contribuir de forma significativa.
 
-<img src="https://i.ibb.co/XrXp6ksS/Albedo-Base-XL-A-cute-and-whimsical-digital-illustration-of-a-C-3-1-removebg-preview.png" alt="ilustração de gato com notebook" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.ibb.co/m1FDxMM/Chat-GPT-Image-14-de-abr-de-2025-17-29-40-removebg-preview.png" alt="ilustração de gato com notebook" min-width="400px" max-width="400px" width="400px" align="right">
 
  
 </p>
 <p align="left">
    <a href="https://www.linkedin.com/in/amandagbapt/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
  <a href="mailto:amandagbapt@outlook.com" title="Email">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-F4C2C2?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook"/>
 <p align="left"> 
 <p align="left">
     <h3><strong>Linguagens e Tecnologias:</strong></h3>
