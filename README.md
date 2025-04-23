@@ -13,7 +13,7 @@ Atualmente, estou em busca de uma oportunidade para aplicar meus conhecimentos, 
  
 </p>
 <p align="left">
-   <a href="https://www.linkedin.com/in/amandagbapt/" title="LinkedIn">
+   <a href="https://www.linkedin.com/in/amandageovanna/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
