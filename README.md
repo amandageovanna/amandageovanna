@@ -4,10 +4,9 @@
 💻 Estudante do último período de Análise e Desenvolvimento de Sistemas na São Paulo Tech School. <br>
 📚 Cursando o 2º semestre de Sistemas de Informação na Faculdade Impacta. <br>
 
-📊 Apaixonada pela área de dados!<br>
+🔍  Apaixonada pela área de dados, atuo como estagiária de Engenharia de Dados no Itaú Unibanco 🧡. <br>
 
-Para alcançar essa meta, estou realizando diversos projetos e cursos, aprimorando meu conhecimento sobre as tecnologias utilizadas no setor e me preparando para alcançar meus objetivos profissionais. 
-Atualmente, estou em busca de uma oportunidade para aplicar meus conhecimentos, crescer profissionalmente e contribuir de forma significativa.
+Estou sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho me dedicado a projetos e estudos para aprofundar meus conhecimentos nas tecnologias do setor e contribuir de forma significativa por onde passo.
 
 <img src="https://i.ibb.co/m1FDxMM/Chat-GPT-Image-14-de-abr-de-2025-17-29-40-removebg-preview.png" alt="ilustração de gato com notebook" min-width="400px" max-width="400px" width="400px" align="right">
 
