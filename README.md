@@ -23,7 +23,6 @@ Estou sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho
     <h3><strong>Linguagens e Tecnologias:</strong></h3>
   <div style="inline_block">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
@@ -34,7 +33,6 @@ Estou sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho
 </div>
 
 <div style="inline_block">
-    <img alt="React" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
@@ -47,7 +45,6 @@ Estou sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho
     <img alt="Databricks" src="https://img.shields.io/badge/Databricks-00000F?style=for-the-badge&logo=Databricks&logoColor=%23FFFFFF">
 </div>
 <div style="inline_block">
-  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-00000F?style=for-the-badge&logo=powerBI&logoColor=white">
 </div>
 </p>
 </p>
