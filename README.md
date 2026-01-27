@@ -2,7 +2,7 @@
 ## 🩷 Olá, meu nome é Amanda Geovanna! 
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas na São Paulo Tech School. <br>
-🎓 Cursando o 2º semestre de Sistemas de Informação na Faculdade Impacta. <br>
+🎓 Cursando o 3º semestre de Sistemas de Informação na Faculdade Impacta. <br>
 💻 Estagiária de Engenharia de Dados no Itaú Unibanco 🧡. <br>
 
 Estou sempre em busca de aprender mais e me desenvolver profissionalmente. Tenho me dedicado a projetos e estudos para aprofundar meus conhecimentos nas tecnologias do setor e contribuir de forma significativa por onde passo.
